@@ -4,4 +4,4 @@ This app is to let users load a multiple PDF files and ask questions about it, w
 
 ![alt_text](https://github.com/Hardik-Jain1/ChatPDF/blob/main/chatpdf_img.jpg)
 
-**PDF + Question ------------>**  **LangChain + OpenAI + Streamlit** **------------> Response**
+**PDFs + Question ------------>**  **LangChain + OpenAI + Streamlit** **------------> Response**
